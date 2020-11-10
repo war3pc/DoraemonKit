@@ -96,7 +96,7 @@ DEPENDENCIES:
   - YYDebugDatabase (from `https://github.com/y500/YYDebugDatabase.git`)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  trunk:
     - AFNetworking
     - CocoaLumberjack
     - FMDB
