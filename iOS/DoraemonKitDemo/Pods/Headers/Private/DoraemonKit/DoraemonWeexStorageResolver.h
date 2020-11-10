@@ -1,0 +1,1 @@
+../../../../../DoraemonKit/Src/Weex/Storage/Function/DoraemonWeexStorageResolver.h

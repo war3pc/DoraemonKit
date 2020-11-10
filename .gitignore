@@ -39,7 +39,7 @@ xcuserdata/
 *.ipa
 
 # CocoaPods
-Pods/
+#Pods/
 
 # Carthage
 Carthage/

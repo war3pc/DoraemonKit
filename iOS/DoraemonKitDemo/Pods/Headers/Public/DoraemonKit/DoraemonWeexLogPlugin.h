@@ -1,0 +1,1 @@
+../../../../../DoraemonKit/Src/Weex/Log/DoraemonWeexLogPlugin.h

@@ -1,0 +1,1 @@
+../../../../../DoraemonKit/Src/GPS/DoraemonGPSPlugin.h
